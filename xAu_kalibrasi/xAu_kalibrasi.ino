@@ -1,6 +1,8 @@
 #include <Wire.h>
 #include "Adafruit_TCS34725.h"
 
+// program untuk kalibrasi warna uangnya
+
 #define BUTTON_PIN 7
 
 // Inisialisasi sensor TCS34725 (integration time, gain)
