@@ -1,10 +1,10 @@
-# Project Title
+# An abandoned project
 
-Simple overview of use/purpose.
+*still have to keep, in case we need*
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+this project didn't have description.
 
 ## Getting Started
 
